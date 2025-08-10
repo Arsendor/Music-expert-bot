@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# ������������ � ���������� �������
+config.py
+*.key
+
+# ���� ������
+*.db
+*.sqlite
+*.sqlite3
+music_database.db
+high_popularity_spotify_data.csv
+
+# IDE �����
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ����
+*.log
+logs/
